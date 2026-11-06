@@ -777,6 +777,18 @@
   "rules": [
     {
       "type": "DOMAIN-SUFFIX",
+      "value": "changan.com.cn",
+      "policy": "DIRECT",
+      "flags": []
+    },
+    {
+      "type": "DOMAIN",
+      "value": "tmcs-shangou.cn-hangzhou.log.aliyuncs.com",
+      "policy": "DIRECT",
+      "flags": []
+    },
+    {
+      "type": "DOMAIN-SUFFIX",
       "value": "raw.githubusercontent.com",
       "policy": "Proxy",
       "flags": []
