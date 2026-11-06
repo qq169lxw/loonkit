@@ -76,6 +76,7 @@ Paypal = select,Proxy,Auto,Fallback,ALL_Filter,img-url = https://raw.githubuserc
 [Remote Rule]
 https://raw.githubusercontent.com/qq169lxw/loonkit/main/rules/custom/Eleme.list, policy=DIRECT, tag=Our-Eleme, enabled=true
 https://raw.githubusercontent.com/qq169lxw/loonkit/main/rules/custom/DouYin.list, policy=DIRECT, tag=Our-DouYin, enabled=true
+https://raw.githubusercontent.com/qq169lxw/loonkit/main/rules/custom/WeChat.list, policy=DIRECT, tag=Our-WeChat, enabled=true
 https://raw.githubusercontent.com/YohakuSama/loonkit/673e2b470b45f291ebf15bbf9dca232d10709bad/rules/releases/v7.0.3/AdBlockBalanced.lsr, policy=AdBlock, tag=Our-AdBlock-Balanced, enabled=true
 https://raw.githubusercontent.com/YohakuSama/loonkit/673e2b470b45f291ebf15bbf9dca232d10709bad/rules/releases/v7.0.3/DomesticCore.lsr, policy=DIRECT, tag=Our-DomesticCore, enabled=true
 https://raw.githubusercontent.com/YohakuSama/loonkit/673e2b470b45f291ebf15bbf9dca232d10709bad/rules/releases/v7.0.3/DomesticSupplement.lsr, policy=DIRECT, tag=Our-DomesticSupplement, enabled=true
