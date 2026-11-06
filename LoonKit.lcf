@@ -123,6 +123,8 @@ https://raw.githubusercontent.com/YohakuSama/loonkit/673e2b470b45f291ebf15bbf9dc
 dns.alidns.com = 223.5.5.5
 
 [Rule]
+DOMAIN-SUFFIX,changan.com.cn,DIRECT
+DOMAIN,tmcs-shangou.cn-hangzhou.log.aliyuncs.com,DIRECT
 DOMAIN-SUFFIX,raw.githubusercontent.com,Proxy
 DOMAIN,trae-api-sg.mchost.guru,AI
 DOMAIN,trae-api-us.mchost.guru,AI
